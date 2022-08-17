@@ -1,0 +1,16 @@
+# requirements untuk face recognition
+# *** cara install: pip install -r requirements.txt ***
+Keras
+Keras-Applications
+Keras-Preprocessing
+keras-vggface
+matplotlib
+numpy
+oauthlib
+opencv-python-headless
+pandas
+Pillow
+scipy
+streamlit
+tensorflow-cpu
+mtcnn
